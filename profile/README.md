@@ -29,6 +29,5 @@ SoybeanJS is a front-end technology team.
 
    - [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS.
    - [create-soybean(developing...)](https://github.com/soybeanjs/cli/tree/main/packages/create-soybean): create different project templates, TS library, Vue+Vite+TS, React+Vite+TS, etc.
-   - [elegent-router(developing....)](https://github.com/soybeanjs/elegent-router): About
-A plugin to create router elegently, support Vue, React, Solid and Svelte
-   - [soybean-ui(developing....)]: A UI of UnoCSS presets
+   - [elegent-router(developing....)](https://github.com/soybeanjs/elegent-router): A plugin to create router elegently, support Vue, React, Solid and Svelte
+   - [soybean-ui(developing....)]: An UI library of UnoCSS presets(repository is currenly hidden)
