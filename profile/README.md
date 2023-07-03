@@ -25,7 +25,7 @@ SoybeanJS is a front-end technology team.
   
 2. [eslint-config](https://github.com/soybeanjs/eslint-config): SoybeanJS's eslint preset, support JS, TS, JSON, Vue, React, ReactNative, Solid, Svelte and Astro.
 
-## SoybeanJS's focusing projects
+## Currently focusing projects
 
    - [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS.
    - [create-soybean(developing...)](https://github.com/soybeanjs/cli/tree/main/packages/create-soybean): create different project templates, TS library, Vue+Vite+TS, React+Vite+TS, etc.
