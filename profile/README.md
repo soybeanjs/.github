@@ -14,7 +14,7 @@ SoybeanJS is a front-end technology team, built by Soybean(soybeanjs@outlook.com
       - Vite: build web app
       - unbuild, tsup: build TS library
       - simple-git-hooks、lint-staged: git hooks
-      - code standards: [eslint-config](https://github.com/soybeanjs/eslint-flat-config)
+      - code standards: [eslint-config](https://github.com/soybeanjs/eslint-config)
 6. Cross Platforms: ReactNative, UniApp, Ionic(CapacitorJS), Tauri, Electron, etc.
 
 ## Open source project
@@ -25,8 +25,7 @@ SoybeanJS is a front-end technology team, built by Soybean(soybeanjs@outlook.com
   - integrat "rimraf", "npm-check-updates", "bumpp"
   - generate changlog by git commits
 - [create-soybean](https://github.com/soybeanjs/cli/tree/main/packages/create-soybean): SoybeanJS's command line to create different project templates (TS, Vue, React, pnpm monorepo)
-- [eslint-flat-config](https://github.com/soybeanjs/eslint-flat-config): SoybeanJS's eslint flat config preset: support TS, Vue, React, Solid, Svelte, Astro, etc.
-- [eslint-config](https://github.com/soybeanjs/eslint-config): SoybeanJS's eslint config preset: support TS, Vue, React, Solid, Svelte, Astro, etc.
+- [eslint-config](https://github.com/soybeanjs/eslint-config): SoybeanJS's eslint flat config preset: support TS, Vue, React, Solid, Svelte, Astro, etc.
 - [elegant-router](https://github.com/soybeanjs/elegant-router): A plugin to create router elegently, support Vue, React, Solid and Svelte.
 - [changelog](https://github.com/soybeanjs/changelog): Generate changelog from git tags and commits for github
 - [color-palette](https://github.com/soybeanjs/color-palette): The implementation of the color palette algorithm of the site [uicolors](https://uicolors.app/create).
