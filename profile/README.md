@@ -1,35 +1,52 @@
+<div align="center">
+  <img src="./logo.svg" alt="SoybeanJS logo" width="100" height="100" />
+
 # SoybeanJS
 
-## Introduction
+> Elegant admin systems, UI foundations, and modern frontend tooling.  
+> 优雅的后台系统、UI 基础设施与现代前端工程化。
+</div>
 
-SoybeanJS is a front-end technology team, built by Soybean(soybeanjs@outlook.com).
+SoybeanJS is an open-source team focused on building modern admin solutions, design-oriented UI foundations, and developer tooling for productive web teams.
 
-## Technology Stack
+## Featured Repositories
 
-1. TypeScript, NodeJs, Bun, tsx.
-2. JS Framework: Vue3, React, Solid, Svelte, Astro, etc.
-3. SSR: Nuxt, Next, SolidStart, SvelteKit.
-4. Charts: AntV, ECharts, Charts.js, d3, Threejs.
-5. Tools:
-      - Vite: build web app
-      - unbuild, tsup: build TS library
-      - simple-git-hooks、lint-staged: git hooks
-      - code standards: [eslint-config](https://github.com/soybeanjs/eslint-config)
-6. Cross Platforms: ReactNative, UniApp, Ionic(CapacitorJS), Tauri, Electron, etc.
+| Project | Role | Stars |
+| --- | --- | --- |
+| [soybean-admin](https://github.com/soybeanjs/soybean-admin) | Flagship admin template | 14k+ |
+| [soybean-admin-antd](https://github.com/soybeanjs/soybean-admin-antd) | Ant Design Vue solution | 400+ |
+| [soybean-admin-element-plus](https://github.com/soybeanjs/soybean-admin-element-plus) | Element Plus solution | 300+ |
+| [soybean-ui](https://github.com/soybeanjs/soybean-ui) | UI foundations | 100+ |
+| [soybean-admin-quarkus](https://github.com/soybeanjs/soybean-admin-quarkus) | Kotlin backend scaffold | 200+ |
+| [soybean-admin-nestjs](https://github.com/soybeanjs/soybean-admin-nestjs) | NestJS backend scaffold | 200+ |
 
-## Open source project
+## Ecosystem
 
-- [soybean-admin](https://github.com/honghuangdc/soybean-admin): A fresh and elegant admin template, based on Vue3、Vite3、TypeScript、NaiveUI and UnoCSS.
-- [soybeanjs-cli](https://github.com/soybeanjs/cli): SoybeanJS's command lint tools
-  - create and verify git commit with Angular standard
-  - integrat "rimraf", "npm-check-updates", "bumpp"
-  - generate changlog by git commits
-- [create-soybean](https://github.com/soybeanjs/cli/tree/main/packages/create-soybean): SoybeanJS's command line to create different project templates (TS, Vue, React, pnpm monorepo)
-- [eslint-config](https://github.com/soybeanjs/eslint-config): SoybeanJS's eslint flat config preset: support TS, Vue, React, Solid, Svelte, Astro, etc.
-- [elegant-router](https://github.com/soybeanjs/elegant-router): A plugin to create router elegently, support Vue, React, Solid and Svelte.
-- [changelog](https://github.com/soybeanjs/changelog): Generate changelog from git tags and commits for github
-- [color-palette](https://github.com/soybeanjs/color-palette): The implementation of the color palette algorithm of the site [uicolors](https://uicolors.app/create).
-- [prettier-plugin-json-sort](https://github.com/soybeanjs/prettier-plugin-json-sort): A prettier plugin to sort package.json and tsconfig.json.
-- [syncmirror](https://github.com/soybeanjs/syncmirror): sync npmmirror.
-- [githublogen](https://github.com/soybeanjs/changelog/tree/main/packages/githublogen): Generate changelog for GitHub releases.
-- [unocss-preset-design](https://github.com/soybeanjs/unocss-preset-design): A unocss plugin to create theme based CSS varaibles.
+- **Admin Systems** · [soybean-admin](https://github.com/soybeanjs/soybean-admin) · [soybean-admin-antd](https://github.com/soybeanjs/soybean-admin-antd) · [soybean-admin-element-plus](https://github.com/soybeanjs/soybean-admin-element-plus) · [soybean-admin-rust](https://github.com/soybeanjs/soybean-admin-rust) · [soybean-admin-nestjs](https://github.com/soybeanjs/soybean-admin-nestjs)
+- **UI Foundations** · [soybean-ui](https://github.com/soybeanjs/soybean-ui) · [unocss-preset](https://github.com/soybeanjs/unocss-preset) · [unocss-preset-design](https://github.com/soybeanjs/unocss-preset-design) · [shadcn-theme](https://github.com/soybeanjs/shadcn-theme)
+- **Tooling** · [create-soybean](https://github.com/soybeanjs/create-soybean) · [eslint-config](https://github.com/soybeanjs/eslint-config) · [oxc-config](https://github.com/soybeanjs/oxc-config) · [elegant-router](https://github.com/soybeanjs/elegant-router) · [cli](https://github.com/soybeanjs/cli)
+
+## Ecosystem Distribution
+
+- Admin Systems      🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 55%
+- UI Foundations     🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜⬜ 20%
+- Tooling & DX       🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 22%
+- Templates & Others 🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3%
+
+## Capabilities
+
+- **Frontend**: Vue 3, React, Solid, Svelte, Astro
+- **SSR**: Nuxt, Next, SolidStart, SvelteKit
+- **Backend**: Hono, Nitro, Cloudflare Workers
+- **Build**: Vite, rolldown, unbuild, tsup, tsdown
+- **Code Quality**: eslint-config, oxc-config, simple-git-hooks, lint-staged
+- **Visualization**: AntV, ECharts, Chart.js, D3, Three.js
+- **Cross-platform**: React Native, UniApp, Ionic, Tauri, Electron
+
+## Community
+
+Issues, discussions, and pull requests are always welcome.
+
+---
+
+<p align="center">Built with ❤️ by SoybeanJS</p>
