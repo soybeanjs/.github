@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://r2.soybeanjs.tech/soybeanjs/logo-soybeanjs.svg?v=202608142043" alt="SoybeanJS logo" width="100" height="100" />
+  <img src="https://img.soybeanjs.dev/logo-soybeanjs.svg?v=202608142043" alt="SoybeanJS logo" width="100" height="100" />
 
 # SoybeanJS
 
